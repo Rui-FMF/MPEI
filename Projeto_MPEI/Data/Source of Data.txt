@@ -1,0 +1,4 @@
+Data gotten from:
+https://www.kaggle.com/selfishgene/historical-hourly-weather-data
+
+Note: Dataset was slightly moddified to suit the project's needs
